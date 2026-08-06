@@ -1,0 +1,19 @@
+{
+  "short_name": "Universo ADAS",
+  "name": "PAU PARA TODA OBRA | WVR Construções & GDM Móveis Planejados",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#09090b",
+  "theme_color": "#f59e0b",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "description": "Solução completa para construir, reformar e mobiliar em Volta Redonda e região. Do terreno à entrega das chaves!"
+}

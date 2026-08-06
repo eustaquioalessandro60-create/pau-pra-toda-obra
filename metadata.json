@@ -1,0 +1,12 @@
+{
+  "name": "PAU PARA TODA OBRA - WVR Construções & GDM Móveis Planejados",
+  "description": "Solução completa do Terreno à Chave na Mão: Construção, Reformas, Móveis Planejados, Segurança, Paisagismo, Documentação, Financiamento e Ferramenta 3D por Comando de Voz.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

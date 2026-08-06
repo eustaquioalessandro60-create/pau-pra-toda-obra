@@ -1,0 +1,14 @@
+{
+  "entities": {
+    "project_states": {
+      "title": "Project States",
+      "description": "Stores 3D project configurations and state for multi-device sync",
+      "fields": {
+        "title": { "type": "string", "description": "Project Title" },
+        "projectState": { "type": "object", "description": "3D Project configuration state" },
+        "updatedAt": { "type": "string", "description": "ISO timestamp of last update" },
+        "syncCode": { "type": "string", "description": "User sync key for device retrieval" }
+      }
+    }
+  }
+}
